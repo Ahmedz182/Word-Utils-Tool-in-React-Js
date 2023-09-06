@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Word-Utils-Tool-in-React-Js/static/css/main.c61d621f.css",
-    "main.js": "/Word-Utils-Tool-in-React-Js/static/js/main.f73ba6b0.js",
+    "main.css": "/Word-Utils-Tool-in-React-Js/static/css/main.549a62c7.css",
+    "main.js": "/Word-Utils-Tool-in-React-Js/static/js/main.efdd134f.js",
     "static/js/787.930c26cd.chunk.js": "/Word-Utils-Tool-in-React-Js/static/js/787.930c26cd.chunk.js",
     "index.html": "/Word-Utils-Tool-in-React-Js/index.html",
-    "main.c61d621f.css.map": "/Word-Utils-Tool-in-React-Js/static/css/main.c61d621f.css.map",
-    "main.f73ba6b0.js.map": "/Word-Utils-Tool-in-React-Js/static/js/main.f73ba6b0.js.map",
+    "main.549a62c7.css.map": "/Word-Utils-Tool-in-React-Js/static/css/main.549a62c7.css.map",
+    "main.efdd134f.js.map": "/Word-Utils-Tool-in-React-Js/static/js/main.efdd134f.js.map",
     "787.930c26cd.chunk.js.map": "/Word-Utils-Tool-in-React-Js/static/js/787.930c26cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c61d621f.css",
-    "static/js/main.f73ba6b0.js"
+    "static/css/main.549a62c7.css",
+    "static/js/main.efdd134f.js"
   ]
 }
