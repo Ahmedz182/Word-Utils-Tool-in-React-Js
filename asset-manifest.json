@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Word-Utils-Tool-in-React-Js/static/css/main.549a62c7.css",
-    "main.js": "/Word-Utils-Tool-in-React-Js/static/js/main.a91c3f9b.js",
+    "main.js": "/Word-Utils-Tool-in-React-Js/static/js/main.1b639709.js",
     "static/js/787.930c26cd.chunk.js": "/Word-Utils-Tool-in-React-Js/static/js/787.930c26cd.chunk.js",
     "index.html": "/Word-Utils-Tool-in-React-Js/index.html",
     "main.549a62c7.css.map": "/Word-Utils-Tool-in-React-Js/static/css/main.549a62c7.css.map",
-    "main.a91c3f9b.js.map": "/Word-Utils-Tool-in-React-Js/static/js/main.a91c3f9b.js.map",
+    "main.1b639709.js.map": "/Word-Utils-Tool-in-React-Js/static/js/main.1b639709.js.map",
     "787.930c26cd.chunk.js.map": "/Word-Utils-Tool-in-React-Js/static/js/787.930c26cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.549a62c7.css",
-    "static/js/main.a91c3f9b.js"
+    "static/js/main.1b639709.js"
   ]
 }
